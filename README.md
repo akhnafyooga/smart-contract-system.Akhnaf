@@ -40,3 +40,23 @@ This project helped me learn:
 ---
 
 ## 📂 Repository Structure
+📦 smart-contract-system.Akhnaf
+┣ 📜 contracts/
+┣ 📜 scripts/
+┣ 📜 test/
+┣ 📜 README.md
+┗ 📜 package.json
+
+
+---
+
+## 🧑‍💻 Author
+**Akhnaf Fawzan Yogatrisna**  
+📍 Universitas Gadjah Mada  
+🔗 [LinkedIn](https://www.linkedin.com/in/akhnafyogatrisna)  
+🐙 [GitHub](https://github.com/akhnafyooga)
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.
